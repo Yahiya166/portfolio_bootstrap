@@ -18,8 +18,9 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #0009 url("../") top right no-repeat;
-  background-size: cover;
+  /* background: #0009 url("../") top right no-repeat; */
+  /* background-size: cover; */
+  background-color: #242222;
   left: 0;
   right: 0;
   top: 0;
